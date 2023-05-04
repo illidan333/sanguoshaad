@@ -11,6 +11,7 @@ Requirement
 
 How to use
 - after login, start the bot
+- press esc to pause
 - change the code to adjust text and frequency
 
 Comiple and editor
